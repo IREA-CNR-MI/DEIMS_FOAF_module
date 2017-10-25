@@ -1,0 +1,7 @@
+name = foaf
+description = Provides the ability to output FOAF (Friends of Friends) from persons nodes.
+core = 7.x
+package = DEIMS Base
+dependencies[] = field
+dependencies[] = helper
+files[] = lib/foaf.php
